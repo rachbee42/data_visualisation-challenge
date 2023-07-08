@@ -1,14 +1,13 @@
 # Data Visualation Challenge
 
-Module 5 challenge:
+Using the given mouse data sets, located in the data folder, this assignment:
 
-Incomplete submission due to workload pressures and requiring additional time and support to complete.  Have added completed code to date but will need to re-submit.  Apologies.
+- Prepares the data
+- Generates summary statistics
+- Creates bar charts and pie charts
+- Calculates quartiles, finds outliers and creates a box plot
+- Creates a line plot and a scatter plot
+- Calculates correlation and regression
+- Provides a final analysis of the data
 
-
-
-Sources used:
-
-https://www.geeksforgeeks.org/how-to-combine-two-dataframe-in-python-pandas/"
-
-https://pythonfordatascienceorg.wordpress.com/join-and-merge-data-frames-python/#:~:text=merge()%20Method-,The%20pandas.,data%20frames%20at%20a%20time."
-
+The assignment file is entitled pymaceuticals_starter_final 
