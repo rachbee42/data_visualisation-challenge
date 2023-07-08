@@ -1,4 +1,4 @@
-# Data Visualation Challenge
+# Data Visualisation Challenge
 
 Using the given mouse data sets, located in the data folder, this assignment:
 
@@ -11,3 +11,6 @@ Using the given mouse data sets, located in the data folder, this assignment:
 - Provides a final analysis of the data
 
 The assignment file is entitled pymaceuticals_starter_final 
+
+
+
