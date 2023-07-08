@@ -1,6 +1,6 @@
 # Data Visualisation Challenge
 
-Using the given mouse data sets, located in the data folder, this assignment:
+Using the given mice data sets, located in the data folder, this assignment:
 
 - Prepares the data
 - Generates summary statistics
